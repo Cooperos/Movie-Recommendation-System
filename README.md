@@ -1,2 +1,7 @@
 # Movie-Recommendation-System
-Movie Recommendation System for my portfolio
+
+## Stack:
+* Pandas
+* Regex
+* Scikit-learn
+* ipywidgets
